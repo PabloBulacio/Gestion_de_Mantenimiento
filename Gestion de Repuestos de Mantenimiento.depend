@@ -1,0 +1,328 @@
+# depslib dependency file v1.0
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614108819 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\clases.h
+
+1602596211 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\estructuras.h
+
+1614208112 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\funciones externas.h
+
+1614120856 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\menues.h
+
+1603148243 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\ui.h
+
+1600785976 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1602879570 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\clases.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\estructuras.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614208112 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\funciones externas.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\ui.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614198003 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\menues.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1613996921 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\clasificacion.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\fecha.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\maquinas.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\ot.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\personal.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\repuestos.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1602945366 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\ubicacion.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\personas.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125394 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\stock.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125394 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\valeentradasalida.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614125394 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\items.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614094212 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\informes.h
+
+1614125395 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\informes.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614214985 source:c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\configuracion.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+	<cstdlib>
+	<cstdio>
+	<ctime>
+	"Clases.h"
+	"Estructuras.h"
+	"Funciones Externas.h"
+	"Menues.h"
+	"ui.h"
+	"rlutil.h"
+	"Informes.h"
+	"Configuracion.h"
+
+1614191667 c:\users\pablo\desktop\tecnico universitario en programacion\cursada 2do cuatrimestre\laboratorio de computacion ii\proyecto final\gestion de repuestos de mantenimiento\configuracion.h
+
